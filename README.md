@@ -15,6 +15,14 @@ PR 32 Derpendent not eligible
 PR 33 No Dependent Coverage.
 PR 35 benefit maximum has been reached.
 
+Relay Assurance
+Changes History Electronic(PAyer)
+NDC /Details 
+Re Bill - Click on Rebill -> Make changes -> Validate -> Save
+Pull ERA - PAyer Activity -> Remit -> Print -> claim + Current Eob Itemized
+
+
+
 https://docs.google.com/document/d/16IzOzwpEUm7mcFwfzwswLrIkQVTezoyATIZ0ykBLQE0/edit?usp=sharing
 
 ﻿
